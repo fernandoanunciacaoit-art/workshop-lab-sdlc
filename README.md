@@ -26,5 +26,5 @@ Merge: Revise as alterações e aceite os PRs para atualizar seu projeto para ve
 ⚠️ Aviso
 Este repositório contém dependências propositalmente vulneráveis para fins educacionais. Não utilize este código em produção!
 
-*Workshop ministrado por: [Fernando Anunciacao]*
-*Linkedin: fernando-anunciacao-3415b5241*
+Workshop ministrado por: [Fernando Anunciacao]
+Linkedin: fernando-anunciacao-3415b5241
