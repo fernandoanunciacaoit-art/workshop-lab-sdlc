@@ -6,7 +6,7 @@
   "dependencies": {
     "mongoose": "9.7.3",
     "handlebars": "4.1.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.8",
     "debug": "4.4.3"
   }
 }
