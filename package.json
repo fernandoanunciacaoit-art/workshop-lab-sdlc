@@ -1,0 +1,12 @@
+{
+  "name": "workshop-seguro-v2",
+  "version": "1.0.0",
+  "description": "Lab de DevSecOps v2",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "5.7.0",
+    "handlebars": "4.1.0",
+    "minimist": "1.2.0",
+    "debug": "2.6.9"
+  }
+}
